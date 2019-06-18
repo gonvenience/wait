@@ -11,6 +11,8 @@ github.com/gonvenience/term v1.0.0 h1:joCB/j0Ngmdakd3muuLgAGPMf7DNKdoe708c1I6RiB
 github.com/gonvenience/term v1.0.0/go.mod h1:wohD4Iqso9Eol7qc2VnNhSFFhZxok5PvO7pZhdrAn4E=
 github.com/gonvenience/text v1.0.0 h1:ayqzSeBE2nlKLtipVrJH63hJcVVpDLBH76muEkq2SSU=
 github.com/gonvenience/text v1.0.0/go.mod h1:jj9PRxju4cKHIzMal+QtCwPtOcmLeX5nHfe8KuSm6Kg=
+github.com/gonvenience/text v1.0.1 h1:CXZNWliZp7tgt346V9vEuxxDpx+TSJAkLq2l5OINu/I=
+github.com/gonvenience/text v1.0.1/go.mod h1:cZzDRGyE/D+8vmAxZ+9qzKYHT4AIzWZWLP2VKbLMgdE=
 github.com/hpcloud/tail v1.0.0 h1:nfCOvKYfkgYP8hkirhJocXT2+zOD8yUNjXaWfTlyFKI=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/lucasb-eyer/go-colorful v1.0.2 h1:mCMFu6PgSozg9tDNMMK3g18oJBX7oYGrC09mS6CXfO4=
