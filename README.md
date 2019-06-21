@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/gonvenience/wait.svg)](https://github.com/gonvenience/wait/blob/master/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/gonvenience/wait)](https://goreportcard.com/report/github.com/gonvenience/wait)
 [![Build Status](https://travis-ci.org/gonvenience/wait.svg?branch=master)](https://travis-ci.org/gonvenience/wait)
+[![Codecov](https://img.shields.io/codecov/c/github/gonvenience/wait/master.svg)](https://codecov.io/gh/gonvenience/wait)
 [![GoDoc](https://godoc.org/github.com/gonvenience/wait/pkg?status.svg)](https://godoc.org/github.com/gonvenience/wait)
 [![Release](https://img.shields.io/github/release/gonvenience/wait.svg)](https://github.com/gonvenience/wait/releases/latest)
 
