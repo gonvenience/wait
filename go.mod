@@ -8,5 +8,5 @@ require (
 	github.com/gonvenience/text v1.0.2
 	github.com/lucasb-eyer/go-colorful v1.0.2
 	github.com/onsi/ginkgo v1.9.0
-	github.com/onsi/gomega v1.6.0
+	github.com/onsi/gomega v1.7.0
 )
