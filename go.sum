@@ -38,6 +38,8 @@ github.com/gonvenience/text v1.0.2 h1:rjfc70ouuOak6h9yPyTN3VKh9hNwO+r+1coDsJIeTj
 github.com/gonvenience/text v1.0.2/go.mod h1:0duUTsGjuLgfqqYRxrpDgeTQlQtuSYTpzq9UZEXeUOA=
 github.com/gonvenience/text v1.0.5 h1:Tfy+SHG3dSnUhxwxaiXJci++Ix0YNumoRu0v7yR4w2Q=
 github.com/gonvenience/text v1.0.5/go.mod h1:sV1+6AWdrMESmsIERyHyIUbnWaFKY9eyWat1gvF5OOE=
+github.com/gonvenience/text v1.0.6 h1:9JH9fz0BL0NX4uKmjLuVcsBKiniPa+XLpf8KH9so44U=
+github.com/gonvenience/text v1.0.6/go.mod h1:9U5WbkT/5wR5+aNMR4HucamY+HgVMEn+UbF78XHmUio=
 github.com/google/go-cmp v0.3.0/go.mod h1:8QqcDgzrUqlUb/G2PQTWiueGozuR1884gddMywk6iLU=
 github.com/google/go-cmp v0.3.1/go.mod h1:8QqcDgzrUqlUb/G2PQTWiueGozuR1884gddMywk6iLU=
 github.com/google/go-cmp v0.4.0/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
