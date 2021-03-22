@@ -32,8 +32,11 @@ import (
 
 var _ = Describe("wait package tests", func() {
 	BeforeEach(func() {
-		ColorSetting = OFF
-		TrueColorSetting = OFF
+		SetColorSettings(OFF, OFF)
+	})
+
+	AfterEach(func() {
+		SetColorSettings(AUTO, AUTO)
 	})
 
 	Context("elapsed time", func() {
