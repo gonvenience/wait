@@ -7,8 +7,8 @@ require (
 	github.com/gonvenience/term v1.0.2
 	github.com/gonvenience/text v1.0.7
 	github.com/lucasb-eyer/go-colorful v1.2.0
-	github.com/onsi/ginkgo/v2 v2.19.0
-	github.com/onsi/gomega v1.33.1
+	github.com/onsi/ginkgo/v2 v2.19.1
+	github.com/onsi/gomega v1.34.0
 )
 
 require (
