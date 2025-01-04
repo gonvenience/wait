@@ -1,6 +1,6 @@
 module github.com/gonvenience/wait
 
-go 1.20
+go 1.22.0
 
 require (
 	github.com/gonvenience/bunt v1.3.5
